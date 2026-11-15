@@ -1,0 +1,69 @@
+메뉴 이미지 출처
+
+아래 아홉 장은 음식 종류를 보여주는 예시 사진입니다.
+앱에서 사진을 표시할 때 이 출처 안내를 함께 제공하세요.
+서버 제공용으로 이미지 크기를 조정하고 729 × 546px 배경에 배치했습니다.
+
+anseong-busan.jpg
+Sogogi-gukbap 1.jpg — chomjong, CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Sogogi-gukbap_1.jpg
+
+manghyang-busan.jpg
+Dongaseu 2.jpg — crocodelicacy, CC0
+https://commons.wikimedia.org/wiki/File:Dongaseu_2.jpg
+
+cheonan-hodu-busan.jpg
+Korean Kimchi fried rice.jpg — Edogang1, CC0
+https://commons.wikimedia.org/wiki/File:Korean_Kimchi_fried_rice.jpg
+
+oksan-busan.jpg
+Sogogi-gukbap 2.jpg — chomjong, CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Sogogi-gukbap_2.jpg
+
+jugam-busan.jpg
+Mukbap 1.jpg — 대경라이프, CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:Mukbap_1.jpg
+
+okcheon-busan.jpg
+Kongnamulbap.jpg — 빙고, CC BY 2.5
+https://commons.wikimedia.org/wiki/File:Kongnamulbap.jpg
+
+geumgang-busan.jpg
+금산 10미 도리뱅뱅 — 충청남도 금산군 관광문화체육과, 공공누리 제1유형
+https://www.data.go.kr/data/15106114/fileData.do
+
+hwanggan-busan.jpg
+Dwaeji-gukbap with dadaegi.jpg — chomjong, CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Dwaeji-gukbap_with_dadaegi.jpg
+
+chupungnyeong-busan.jpg
+Pork bulgogi.jpg — Chloe Lim, CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Pork_bulgogi.jpg
+
+이용 조건
+https://creativecommons.org/licenses/by/2.0/
+https://creativecommons.org/licenses/by/2.5/
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/publicdomain/zero/1.0/
+https://www.kogl.or.kr/info/licenseType1.do
+
+전체 메뉴 실제 사진 출처
+- 죽암(부산) 보은대추왕갈비탕 — 신웅, CC BY 4.0, 게시 JPEG 그대로
+  /images/menu/jugam-busan-boeun-jumbo-rib-soup.jpg
+  https://shinwoongs.tistory.com/2006
+  https://creativecommons.org/licenses/by/4.0/
+- 죽암(부산) 야채튀김우동 — 신나는 신매니저, CC BY-NC-ND 4.0, 게시 이미지 그대로
+  /images/menu/jugam-busan-vegetable-tempura-udon.webp
+  https://world-myth.tistory.com/65
+- 금강(부산) 어탕국수 — 먹진남자, CC BY-NC-ND 4.0, 게시 이미지 그대로
+  /images/menu/geumgang-busan-fish-soup-noodles.jpg
+  https://lab912.tistory.com/1452
+- 추풍령(부산) 화덕고등어구이+솥밥 — 쓰디쓴한잔, CC BY-NC-ND 4.0, 크기와 파일 형식 조정
+  /images/menu/chupungnyeong-busan-grilled-mackerel.jpg
+  https://margarita-room.tistory.com/entry/김천추풍령휴게소하행부산방향-가장-맛있는-한식-메뉴-전국고속도로-휴게소-맛집
+
+CC BY-NC-ND 4.0 사진은 비상업적 데모에 사용합니다.
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+데모 이미지
+- /images/menu/examples/ — 음식 종류별로 생성한 데모용 이미지. 동일한 음식 종류의 메뉴에서 공통으로 사용합니다.
