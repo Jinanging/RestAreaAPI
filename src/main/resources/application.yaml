@@ -1,3 +1,7 @@
 spring:
   application:
     name: RestAreaAPI
+
+ex:
+  open-api:
+    key: ${EX_OPEN_API_KEY:}
